@@ -93,9 +93,3 @@ The project is designed with a fun and interactive tone while practicing importa
 
 ---
 
-## 🚀 How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/funny-quiz-cpp.git
