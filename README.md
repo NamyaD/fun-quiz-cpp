@@ -34,7 +34,7 @@ The project is designed with a fun and interactive tone while practicing importa
 - ⏱️ Timer-style warning message
 - 🏆 High-score storage using file handling
 - 📜 Certificate-style result display
-- 😂 Funny feedback messages
+
 
 ---
 
