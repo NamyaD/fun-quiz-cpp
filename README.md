@@ -28,7 +28,6 @@ The project is designed with a fun and interactive tone while practicing importa
 - 🔁 Password confirmation with 3 attempts
 - 📜 Funny Terms & Conditions
 - 🧠 Category selection
-- 🎚️ Difficulty level selection
 - ❓ Multiple-choice questions
 - 🆘 50-50 lifeline
 - ⏱️ Timer-style warning message
