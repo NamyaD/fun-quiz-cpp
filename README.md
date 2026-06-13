@@ -37,7 +37,7 @@ The project was designed with a fun and interactive tone while practicing import
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack USed
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp" />
