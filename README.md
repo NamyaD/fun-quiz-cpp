@@ -17,7 +17,7 @@
 **Funny Quiz Game** is a console-based quiz application developed using C++.  
 It includes user login, password confirmation, age validation, category selection, difficulty levels, scoring, lifeline support, and high-score storage using file handling.
 
-The project is designed with a fun and interactive tone while practicing important C++ fundamentals.
+The project was designed with a fun and interactive tone while practicing important C++ fundamentals.
 
 ---
 
