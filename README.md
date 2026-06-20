@@ -88,7 +88,7 @@ The project was designed with a fun and interactive tone while practicing import
 7. User can use one 50-50 lifeline.
 8. Score is calculated.
 9. Certificate-style result is displayed.
-10. High score is saved in `highscore.txt`.
+
 
 ---
 
