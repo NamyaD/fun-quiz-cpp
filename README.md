@@ -54,7 +54,6 @@ The project was designed with a fun and interactive tone while practicing import
 ## 🎮 Categories
 
 | Category | Description |
-|---|---|
 | General Knowledge | Country capitals and basic GK |
 | C++ Basics | Programming fundamentals |
 | Aptitude | Basic numerical questions |
